@@ -1,0 +1,115 @@
+{"books":[
+  {"id":1,
+    "image_url": "http://dummyimage.com/x.png/dddddd/000000",
+    "book_name": "Spermophilus richardsonii",
+    "author": "Gregory",
+    "genre": "Science",
+    "edition": 2022,
+    "publisher": "Emard and Sons",
+    "cost":950,
+    "borrowed": false
+  },
+  {
+    "id": 2,
+    "image_url": "http://dummyimage.com/x.png/dddddd/000000",
+    "book_name": "Felis caracal",
+    "author": "Arliene",
+    "genre": "Tech",
+    "edition": 2022,
+    "publisher": "Franecki-Medhurst",
+    "cost":1100,
+    "borrowed": false
+  },
+  {
+    "id": 3,
+    "image_url": "http://dummyimage.com/x.png/ff4444/ffffff",
+    "book_name": "Dusicyon thous",
+    "author": "Kellia",
+    "genre": "History",
+    "edition": 2022,
+    "publisher": "Thompson-Okuneva",
+    "cost":2000,
+    "borrowed": false
+  },
+  {
+    "id": 4,
+    "image_url": "http://dummyimage.com/x.png/cc0000/ffffff",
+    "book_name": "Ardea cinerea",
+    "author": "Desmund",
+    "genre": "Business",
+    "edition": 2022,
+    "publisher": "Wehner-Casper",
+    "cost":520,
+    "borrowed": false
+  },
+  {
+    "id": 5,
+    "image_url": "http://dummyimage.com/x.png/cc0000/ffffff",
+    "book_name": "Ratufa indica",
+    "author": "Carine",
+    "genre": "Fiction",
+    "edition": 2021,
+    "publisher": "Pagac and Sons",
+    "cost":650,
+    "borrowed": false
+  },
+  {
+    "id":6 ,
+    "image_url": "http://dummyimage.com/x.png/cc0000/ffffff",
+    "book_name": "Dicrostonyx groenlandicus",
+    "author": "Nert",
+    "genre": "Science",
+    "edition": 2021,
+    "publisher": "Olson-Christiansen",
+    "cost":400,
+    "borrowed": false
+  },
+  {
+    "id": 7,
+    "image_url": "http://dummyimage.com/x.png/dddddd/000000",
+    "book_name": "Paraxerus cepapi",
+    "author": "Faustine",
+    "genre": "Tech",
+    "edition": 2021,
+    "publisher": "McGlynn-Wunsch",
+    "cost":300,
+    "borrowed": false
+  },
+  {
+    "id": 8,
+    "image_url": "http://dummyimage.com/x.png/cc0000/ffffff",
+    "book_name": "Orcinus orca",
+    "author": "Ronalda",
+    "genre": "Fiction",
+    "edition": 2020,
+    "publisher": "Fahey-Leuschke",
+    "cost":230,
+    "borrowed": false
+  },
+  {
+    "id": 9,
+    "image_url": "http://dummyimage.com/x.png/5fa2dd/ffffff",
+    "book_name": "Terathopius ecaudatus",
+    "author": "Westbrooke",
+    "genre": "Business",
+    "edition": 2020,
+    "publisher": "Lindgren, Tromp and Ortiz",
+    "cost":250,
+    "borrowed": false
+  },
+  {
+    "id": 10,
+    "image_url": "http://dummyimage.com/x.png/cc0000/ffffff",
+    "book_name": "Mephitis mephitis",
+    "author": "Abbi",
+    "genre": "History",
+    "edition": 2020,
+    "publisher": "Prohaska, Mills and Lang",
+    "cost":200,
+    "borrowed": false
+  }
+]
+,
+"user":[]
+
+}
